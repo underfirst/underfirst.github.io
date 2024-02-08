@@ -85,13 +85,11 @@ greet('世界');
 
 ## table
 
-| モデル名                                    | パラメータ数 | C4 (PPL) | AI王（正解率） | JSQuAD（正解率） |
-|-------------------------------------------|------------|----------|---------------|-----------------|
-| line-corporation/japanese-large-lm-1.7b   | 1.7B       | 8.57     | 32.2          | 57.50           |
-| line-corporation/japanese-large-lm-3.6b   | 3.6B       | 7.50     | 48.5          | 63.85           |
-| rinna/japanese-gpt-neox-3.6b              | 3.6B       | 8.18     | 48.6          | 50.09           |
-| rinna/bilingual-gpt-neox-4b               | 3.8B       | 8.83     | 43.0          | 52.72           |
-| cyberagent/open-calm-7b                   | 6.9B       | 11.87    | 35.4          | 48.13           |
+| モデル名                         | aaaaa | pplppl | AIO | Ikagame |
+|------------------------------|----|-----|---|------|
+| aaaa                         | 1  | 8.5 | 3 | .50  |
+| bbbbbbbbbbbbbbbbbbbbbbbb bbb | 2  | 7.5 | 4 | 3.85 |
+| ccccc                        | 3  | 8   | 4 | 0.09 |
 
 
 
