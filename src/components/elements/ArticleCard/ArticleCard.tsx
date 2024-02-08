@@ -65,7 +65,7 @@ export const ArticleCard = (props: ArticleCardProps) => {
           <Box>
             <Link href={props.category.href != null ? props.category.href : '#'}>
               <Badge
-                variant="light"
+                variant="outline"
                 color="gray"
                 radius="xs"
                 visibleFrom="xs"
@@ -73,19 +73,7 @@ export const ArticleCard = (props: ArticleCardProps) => {
                 m="4px 4px 0 0"
                 // leftSection={<IconCategory style={{ width: '1rem', height: '1rem' }}/>}
               >
-                {props.category.title}
-              </Badge>
-              <Badge
-                variant="light"
-                color="gray"
-                fz="10px"
-                radius="xs"
-                hiddenFrom="sm"
-                size="xs"
-                m="4px 4px 0 0"
-                // leftSection={<IconCategory style={{ width: rem(12), height: rem(12) }} />}
-              >
-                {props.category.title}
+                Category: {props.category.title}
               </Badge>
             </Link>
             {props.tags.map((item) => {
