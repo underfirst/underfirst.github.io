@@ -63,7 +63,7 @@ export function Footer() {
       </Container>
       <Container className={classes.afterFooter}>
         <Text c="dimmed" size="sm">
-          © 2024- underlast. All rights reserved.
+          © 2024- underfirst. All rights reserved.
         </Text>
 
         <Group gap={0} className={classes.social} justify="flex-end" wrap="nowrap">
