@@ -7,15 +7,12 @@
 
 # Frontend開発
 
-- v0 (MVP)
-  - ContentMain
-    - Table
-  - frontmatterでtagを解析して, ArticleListItemに表示する.
-  - デプロイ作業
 - v1 (Simple frontend component almost done.)
   - component view定義
-      - Side?TagPane
-    - SNS Link
+      - SideTagPane
+      - SNS Link
+      - Table
+      - frontmatternoのtagを解析して, ArticleListItemに表示する.
   - responsive page content font size
 - v2 (複雑なBackend処理連携)
     - component view定義
