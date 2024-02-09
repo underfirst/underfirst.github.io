@@ -1,7 +1,7 @@
 import { Accordion, AccoridionData } from './Accordion';
 
 export default {
-  title: 'Accordion',
+  title: 'elements/Accordion',
 };
 
 const exampleData: AccoridionData[] = [

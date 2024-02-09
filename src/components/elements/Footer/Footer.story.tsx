@@ -1,7 +1,7 @@
 import { Footer } from './Footer';
 
 export default {
-  title: 'Footer',
+  title: 'elements/Footer',
 };
 
 export const Usage = () => (

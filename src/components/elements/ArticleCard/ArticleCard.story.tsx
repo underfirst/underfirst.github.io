@@ -2,7 +2,7 @@ import { Stack } from '@mantine/core';
 import { ArticleCard } from './ArticleCard';
 
 export default {
-  title: 'ArticleCard',
+  title: 'elements/ArticleCard',
 };
 
 export const Usage = () => {

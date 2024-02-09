@@ -1,7 +1,7 @@
 import { CodeBlock } from './CodeBlock';
 
 export default {
-  title: 'CodeBlock',
+  title: 'elements/CodeBlock',
 };
 
 export const Usage = () => {

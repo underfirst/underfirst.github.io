@@ -2,7 +2,7 @@ import { Container } from '@mantine/core';
 import { TableOfContents } from './TableOfContents';
 
 export default {
-  title: 'TableOfContent',
+  title: 'elements/TableOfContent',
 };
 
 export const Usage = () => {

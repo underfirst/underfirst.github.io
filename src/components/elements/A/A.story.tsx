@@ -1,7 +1,7 @@
 import { A } from './A';
 
 export default {
-  title: 'A',
+  title: 'elements/A',
 };
 
 export const Usage = () => {

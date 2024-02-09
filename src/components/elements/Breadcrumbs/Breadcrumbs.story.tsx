@@ -1,7 +1,7 @@
 import { Breadcrumbs } from './Breadcrumbs';
 
 export default {
-  title: 'Breadcrumbs',
+  title: 'elements/Breadcrumbs',
 };
 
 export const Usage = () => {

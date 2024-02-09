@@ -1,7 +1,7 @@
 import { Loader } from './Loader';
 
 export default {
-  title: 'Loader',
+  title: 'elements/Loader',
 };
 
 export const Usage = () => {

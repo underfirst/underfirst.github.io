@@ -2,7 +2,7 @@ import { Button } from '@mantine/core';
 import { Drawer } from './Drawer';
 
 export default {
-  title: 'Drawer',
+  title: 'elements/Drawer',
 };
 
 export const Usage = () => {

@@ -1,7 +1,7 @@
 import { Tooltip } from './Tooltip';
 
 export default {
-  title: 'Popover',
+  title: 'elements/Popover',
 };
 
 export const Usage = () => {

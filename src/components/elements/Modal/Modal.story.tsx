@@ -2,7 +2,7 @@ import { Button } from '@mantine/core';
 import { Modal } from './Modal';
 
 export default {
-  title: 'Modal',
+  title: 'elements/Modal',
 };
 
 export const Usage = () => {

@@ -4,7 +4,7 @@ import { randomId } from '@mantine/hooks';
 import { Pagination } from './Pagination';
 
 export default {
-  title: 'Pagination',
+  title: 'elements/Pagination',
 };
 
 export const Usage = () => {

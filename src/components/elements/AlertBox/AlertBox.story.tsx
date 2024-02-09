@@ -3,7 +3,7 @@ import { Container, Stack } from '@mantine/core';
 import { AlertBox } from './AlertBox';
 
 export default {
-  title: 'AlertBox',
+  title: 'elements/AlertBox',
 };
 
 export const Usage = () => {

@@ -1,7 +1,7 @@
 import { MenuBar } from './MenuBar';
 
 export default {
-  title: 'MenuBar',
+  title: 'elements/MenuBar',
 };
 
 export const Usage = () => {
