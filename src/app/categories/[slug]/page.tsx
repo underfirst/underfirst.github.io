@@ -1,5 +1,5 @@
 import { getCategories, getCategoryPosts } from '@/lib/api';
-import { ListPage } from '@/components/ListPage/ListPage';
+import { ListPage } from '@/components/layouts/ListPage/ListPage';
 
 type Params = {
   params: {

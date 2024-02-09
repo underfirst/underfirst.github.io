@@ -25,7 +25,7 @@ export const Drawer = (props: {
       >
         {props.children}
       </MantineDrawer>
-        {/* eslint-disable-next-line jsx-a11y/click-events-have-key-events,jsx-a11y/no-static-element-interactions */}
+      {/* eslint-disable-next-line jsx-a11y/click-events-have-key-events,jsx-a11y/no-static-element-interactions */}
       <a onClick={open}>{props.target}</a>
     </>
   );

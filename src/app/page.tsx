@@ -1,5 +1,5 @@
 import { getAllPosts } from '@/lib/api';
-import { ListPage } from '@/components/ListPage/ListPage';
+import { ListPage } from '@/components/layouts/ListPage/ListPage';
 
 export default function Index() {
   const allPosts = getAllPosts();

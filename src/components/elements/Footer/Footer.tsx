@@ -2,10 +2,7 @@
 
 import Link from 'next/link';
 import { Text, Container, ActionIcon, Group, rem, useMantineTheme } from '@mantine/core';
-import {
-  IconBrandTwitter,
-  IconBrandGithub,
-} from '@tabler/icons-react';
+import { IconBrandTwitter, IconBrandGithub } from '@tabler/icons-react';
 import classes from './Footer.module.css';
 
 const data = [

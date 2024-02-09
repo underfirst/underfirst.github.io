@@ -52,7 +52,7 @@ export const ListPage = (props: { listType?: string; listTitle?: string; allPost
                         date={post.date}
                         content={post.excerpt}
                         category={{ title: 'NLP' }}
-                        tags={post.tags.map(text => ({ title: text, href: text }))}
+                        tags={post.tags.map((text) => ({ title: text, href: text }))}
                       />
                     ))}
                   </div>
